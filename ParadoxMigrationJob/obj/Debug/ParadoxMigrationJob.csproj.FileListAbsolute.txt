@@ -1,0 +1,6 @@
+c:\users\joe\documents\visual studio 2012\Projects\ParadoxMigrationJob\ParadoxMigrationJob\bin\Debug\ParadoxMigrationJob.exe.config
+c:\users\joe\documents\visual studio 2012\Projects\ParadoxMigrationJob\ParadoxMigrationJob\obj\Debug\ParadoxMigrationJob.csprojResolveAssemblyReference.cache
+c:\users\joe\documents\visual studio 2012\Projects\ParadoxMigrationJob\ParadoxMigrationJob\bin\Debug\ParadoxMigrationJob.exe
+c:\users\joe\documents\visual studio 2012\Projects\ParadoxMigrationJob\ParadoxMigrationJob\bin\Debug\ParadoxMigrationJob.pdb
+c:\users\joe\documents\visual studio 2012\Projects\ParadoxMigrationJob\ParadoxMigrationJob\obj\Debug\ParadoxMigrationJob.exe
+c:\users\joe\documents\visual studio 2012\Projects\ParadoxMigrationJob\ParadoxMigrationJob\obj\Debug\ParadoxMigrationJob.pdb
